@@ -1,3 +1,5 @@
+# Q. Generate the following patterns using nested loop. (Pattern 3)
+
 size = 5
 
 for i in range(size):
