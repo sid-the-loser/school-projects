@@ -1,6 +1,6 @@
 n = int(input("How much numbers do u want: "))
 
-x, y, z = 0, 1, None
+x, y = 0, 1
 
 for i in range(n):
     print(x)
