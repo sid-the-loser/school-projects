@@ -1,3 +1,5 @@
+# Determine wheather a number is a perfect number, and armstrong number or a palindrome.
+
 x = int(input("Enter the number here: "))
 
 x = [x, str(x)]
