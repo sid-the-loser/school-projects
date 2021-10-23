@@ -1,3 +1,3 @@
 # Q. Input a welcome message and display it.
 
-print(input("Enter a welcome message: "))
+print("Hello,", input("Enter a welcome message: "))
