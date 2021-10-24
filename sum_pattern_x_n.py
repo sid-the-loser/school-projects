@@ -1,3 +1,6 @@
+# Q. Write a program to input the value of x and n and print the sum of the following series:
+#   Refer the question for the serieses
+
 z = int(input("Enter the value of x: "))
 n = int(input("Enter the value of n: "))
 
