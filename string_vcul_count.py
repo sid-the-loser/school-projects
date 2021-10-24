@@ -1,3 +1,5 @@
+# Q. Count and display the number of vowels, consonants, uppercase, lowercase characters in string.
+
 x = input("Enter the word: ")
 
 vowels = list("aeiou")
