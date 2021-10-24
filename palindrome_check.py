@@ -13,3 +13,5 @@ if x_ == x:
 
 else:
     print(f"Nope, this is not a palindrome!")
+
+print(x.swapcase())
