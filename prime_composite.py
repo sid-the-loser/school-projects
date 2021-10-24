@@ -1,3 +1,5 @@
+# Q. Input a number and check if the number is prime or composite number.
+
 x = int(input("Enter the number pls: "))
 
 prime = True
