@@ -1,3 +1,5 @@
+# Q. Input a string and determine whether it is a palindrome or not; convert the case of characters in a string.
+
 x = input("Enter the string: ")
 x_ = ""
 
