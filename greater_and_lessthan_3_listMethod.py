@@ -1,3 +1,5 @@
+# Q. Input three numbers and display the leargest/smallest number.
+
 x = float(input("Enter a number: "))
 y = float(input("Enter another number: "))
 z = float(input("Enter another number: "))
