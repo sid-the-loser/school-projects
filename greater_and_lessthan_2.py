@@ -1,3 +1,5 @@
+# Q. Input two numbers and display the larger/smaller number.
+
 x = float(input("Enter a number: "))
 y = float(input("Enter another number: "))
 
