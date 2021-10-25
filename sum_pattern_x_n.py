@@ -31,4 +31,4 @@ for i in range(n):
 
 print(x)
 
-# IDK the last sum
+# I don't know the last sum
